@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+1.04.py	../cap1/1.04.py	1;"	kind:file	line:1
+1.05.py	../cap1/1.05.py	1;"	kind:file	line:1
+1.06.py	../cap1/1.06.py	1;"	kind:file	line:1
+1.07.py	../cap1/1.07.py	1;"	kind:file	line:1
+1.08.py	../cap1/1.08.py	1;"	kind:file	line:1
+1.09.py	../cap1/1.09.py	1;"	kind:file	line:1
+allwidgets.py	../cap1/allwidgets.py	1;"	kind:file	line:1
+button	../cap1/allwidgets.py	/^button = tk.Button(root, text="This is a button widget")$/;"	kind:variable	line:55
+button	../cap1/example1.py	/^button = Button(root, text="This is a button widget")$/;"	kind:variable	line:5
+callback	../cap1/1.09.py	/^def callback(event):$/;"	kind:function	line:7
+example1.py	../cap1/example1.py	1;"	kind:file	line:1
+frame	../cap1/1.04.py	/^frame = Frame(root)$/;"	kind:variable	line:5
+frame	../cap1/1.09.py	/^frame = tk.Frame(root, bg='khaki', width=130, height=80)$/;"	kind:variable	line:11
+frame	../cap1/allwidgets.py	/^frame = tk.Frame(root)$/;"	kind:variable	line:15
+frame2	../cap1/allwidgets.py	/^frame2 = tk.Frame(root)$/;"	kind:variable	line:28
+frame3	../cap1/allwidgets.py	/^frame3 = tk.Frame(root)$/;"	kind:variable	line:40
+frame4	../cap1/allwidgets.py	/^frame4 = tk.Frame(root)$/;"	kind:variable	line:48
+label	../cap1/allwidgets.py	/^label = tk.Label(root, text="This is a label widget")$/;"	kind:variable	line:54
+label	../cap1/example1.py	/^label = Label(root, text="This is a label widget")$/;"	kind:variable	line:4
+menu_bar	../cap1/allwidgets.py	/^menu_bar = tk.Frame(root)$/;"	kind:variable	line:8
+parent	../cap1/1.05.py	/^parent = Frame(root)$/;"	kind:variable	line:4
+parent	../cap1/1.07.py	/^parent = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/1.04.py	/^root = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/1.05.py	/^root = Tk()$/;"	kind:variable	line:2
+root	../cap1/1.06.py	/^root = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/1.08.py	/^root = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/1.09.py	/^root = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/allwidgets.py	/^root = tk.Tk()$/;"	kind:variable	line:3
+root	../cap1/example1.py	/^root = Tk()$/;"	kind:variable	line:3
+v	../cap1/allwidgets.py	/^v = "thing"$/;"	kind:variable	line:5
